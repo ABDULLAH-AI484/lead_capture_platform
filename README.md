@@ -59,6 +59,9 @@ The in-process limiter demonstrates per-IP and per-widget burst protection and r
 pytest -q
 ```
 
+<img width="1831" height="948" alt="Screenshot 2026-09-16 121309" src="https://github.com/user-attachments/assets/a695e790-ef06-49d9-8b2b-b53111152c4e" />
+
+
 ## Explicit non-goal
 
 This capstone does not implement a production visual form builder, billing, real CDN, email provider, or multi-region deployment. The focus is secure public API boundaries and graceful degradation.
